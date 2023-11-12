@@ -1,2 +1,1 @@
-# Curso-Programacion
-Modulo 2 repositorio prueba
+Este proyecto es una muestra de como clonar mi repositorio de gut bush a mi escritorio local 
